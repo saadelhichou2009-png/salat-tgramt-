@@ -1,0 +1,6 @@
+{
+  "name": "الآذان تغرمت",
+  "description": "برنامج أوقات الصلاة والقبلة والمسبحة الإلكترونية ومتابع الصلوات اليومي بتصميم إلامي فاخر وسهل الاستخدام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
